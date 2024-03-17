@@ -32,7 +32,7 @@ Ready to embark on your journey to excellence? Here's how you can get involved:
 
 Stay updated on all things APEX:
 
-- 🌐 Website: [apexcommunity.io](https://apex-website-gules.vercel.app/)
+- 🌐 Website: [Website Link](https://apex-website-gules.vercel.app/)
 - 📧 Email: apexcommunity.mitblr@gmail.com
 - 📌 Location: MITB, Bangalore, KA, 560064, India
 
