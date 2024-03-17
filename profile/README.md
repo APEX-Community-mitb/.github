@@ -6,6 +6,7 @@
   </a>
   <h1 align="center">APEX COMMUNITY Website</h1>
 </p>
+
 The APEX (Aspiring Pioneers of Excellence) community is a hub for innovation, collaboration, and growth. Born from a common student dilemma, we strive to bridge the gap between tech-savvy students and those seeking to develop essential skills, creating a vibrant ecosystem where visionary ideas thrive.
 
 ## About Us
